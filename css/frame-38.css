@@ -1,0 +1,68 @@
+/* screen - frame-38 */
+
+.frame-38 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 532px;
+  min-width: 95px;
+  padding: 90px 0;
+}
+
+.frame-38 .overlap-group1 {
+  -webkit-backdrop-filter: blur(6px) brightness(100%);
+  align-items: flex-end;
+  backdrop-filter: blur(6px) brightness(100%);
+  background: linear-gradient(180deg, rgb(209.06, 205.06, 255) 75.52%, rgb(193.22, 188.31, 249.69) 91.67%);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  margin-left: 12px;
+  min-height: 351px;
+  padding: 45.0px 7px;
+  width: 83px;
+}
+
+.frame-38 .group-54 {
+  background-image: url(../img/image-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 70px;
+  margin-right: 0.02px;
+  width: 68px;
+}
+
+.frame-38 .overlap-group {
+  height: 68px;
+  position: relative;
+  width: 68px;
+}
+
+.frame-38 .rectangle-72 {
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.frame-38 .product-design {
+  left: 8px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 53px;
+}
+
+.frame-38 .rectangle-74 {
+  background-color: #181818;
+  border-radius: 13px;
+}
+
+.frame-38 .rectangle {
+  height: 68px;
+  width: 68px;
+}

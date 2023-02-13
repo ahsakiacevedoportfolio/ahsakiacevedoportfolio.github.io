@@ -1,0 +1,48 @@
+/* screen - frame-26 */
+
+.frame-26 {
+  align-items: flex-start;
+  background-color: var(--biloba-flower);
+  border: 1px none;
+  display: flex;
+  height: 1185px;
+  overflow: hidden;
+  padding: 0 446.5px;
+  width: 2000px;
+}
+
+.frame-26 .group-65 {
+  align-items: flex-start;
+  display: flex;
+  height: 1337px;
+  left: 446px;
+  min-width: 1106px;
+  position: fixed;
+  top: -116px;
+  transform: rotate(90deg);
+  z-index: 1;
+}
+
+.frame-26 .overlap-group {
+  height: 1337px;
+  position: relative;
+  width: 1106px;
+}
+
+.frame-26 .group-28 {
+  height: 994px;
+  left: -60px;
+  position: absolute;
+  top: 172px;
+  transform: rotate(-90deg);
+  width: 1337px;
+}
+
+.frame-26 .untitled2-100x810-1-2 {
+  height: 197px;
+  left: -426px;
+  position: absolute;
+  top: 570px;
+  transform: rotate(-90deg);
+  width: 1048px;
+}

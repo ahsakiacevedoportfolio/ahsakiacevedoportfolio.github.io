@@ -1,0 +1,212 @@
+/* screen - frame-52 */
+
+.frame-52 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 827px;
+  padding: 95px 194px;
+  width: 1679px;
+}
+
+#overlay-frame-52 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-52 .overlap-group3 {
+  height: 75px;
+  margin-top: 17px;
+  position: relative;
+  width: 1290px;
+}
+
+.frame-52 .rectangle-68 {
+  background-color: var(--carnation-pink);
+  border-radius: 10px 10px 0px 0px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1290px;
+}
+
+.frame-52 .rectangle-76 {
+  background-color: var(--shampoo);
+  border-radius: 5px;
+  height: 44px;
+  left: 90px;
+  position: absolute;
+  top: 12px;
+  width: 114px;
+}
+
+.frame-52 .rectangle-70 {
+  background-color: var(--shampoo);
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 1290px;
+}
+
+.frame-52 .rectangle-69 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--cerise);
+  border-radius: 15px;
+  height: 25px;
+  left: 90px;
+  position: absolute;
+  top: 40px;
+  width: 951px;
+}
+
+.frame-52 .overlap-group1 {
+  border-radius: 8px;
+  height: 16px;
+  left: 24px;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.frame-52 .ellipse-9 {
+  background-color: var(--red-orange);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.frame-52 .group-48 {
+  align-items: flex-end;
+  background-image: url(../img/line-5@2x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 8px;
+  left: 4px;
+  min-width: 8px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 4px;
+}
+
+.frame-52 .line-6 {
+  height: 8px;
+  margin-bottom: -0.03px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.frame-52 .overlap-group4 {
+  align-items: center;
+  background-color: var(--solitude);
+  display: flex;
+  flex-direction: column;
+  min-height: 545px;
+  padding: 8px 29px;
+  width: 1290px;
+}
+
+.frame-52 .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3.0px;
+  margin-top: 2px;
+  min-height: 29px;
+  width: 227px;
+}
+
+.frame-52 .navbar-link-keychains {
+  width: 78px;
+}
+
+.frame-52 .overlap-group {
+  height: 20px;
+  position: relative;
+  width: 78px;
+}
+
+.frame-52 .tote-bags {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 78px;
+}
+
+.frame-52 .line-8 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 72px;
+}
+
+.frame-52 .navbar-link-other {
+  width: 52px;
+}
+
+.frame-52 .frame-55 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 442px;
+  margin-top: 19px;
+  overflow: hidden;
+  overflow-y: scroll;
+  width: 1229px;
+}
+
+.frame-52 .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 75px;
+  height: 855px;
+  margin-bottom: -413px;
+  min-width: 1229px;
+  padding: 10px 101px;
+}
+
+.frame-52 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  min-height: 823px;
+  width: 475px;
+}
+
+.frame-52 .rectangle-80 {
+  height: 405px;
+  margin-left: 1px;
+  width: 474px;
+}
+
+.frame-52 .rectangle-81 {
+  height: 405px;
+  width: 474px;
+}
+
+.frame-52 .rectangle-82 {
+  height: 405px;
+  margin-top: 8px;
+  width: 474px;
+}
+
+.frame-52 .navbar-link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+}

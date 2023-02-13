@@ -1,0 +1,206 @@
+/* screen - frame-50 */
+
+.frame-50 {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  min-height: 827px;
+  padding: 95px 194px;
+  width: 1679px;
+}
+
+#overlay-frame-50 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-50 .overlap-group2 {
+  height: 75px;
+  margin-top: 17px;
+  position: relative;
+  width: 1290px;
+}
+
+.frame-50 .rectangle-68 {
+  background-color: var(--carnation-pink);
+  border-radius: 10px 10px 0px 0px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1290px;
+}
+
+.frame-50 .rectangle-76 {
+  background-color: var(--shampoo);
+  border-radius: 5px;
+  height: 44px;
+  left: 90px;
+  position: absolute;
+  top: 12px;
+  width: 114px;
+}
+
+.frame-50 .rectangle-70 {
+  background-color: var(--shampoo);
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 1290px;
+}
+
+.frame-50 .rectangle-69 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--cerise);
+  border-radius: 15px;
+  height: 25px;
+  left: 90px;
+  position: absolute;
+  top: 40px;
+  width: 951px;
+}
+
+.frame-50 .overlap-group1 {
+  border-radius: 8px;
+  height: 16px;
+  left: 24px;
+  position: absolute;
+  top: 8px;
+  width: 16px;
+}
+
+.frame-50 .ellipse-9 {
+  background-color: var(--red-orange);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.frame-50 .group-48 {
+  align-items: flex-end;
+  background-image: url(../img/line-5@2x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 8px;
+  left: 4px;
+  min-width: 8px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 4px;
+}
+
+.frame-50 .line-6 {
+  height: 8px;
+  margin-bottom: -0.03px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.frame-50 .overlap-group3 {
+  align-items: center;
+  background-color: var(--solitude);
+  display: flex;
+  flex-direction: column;
+  min-height: 545px;
+  padding: 8px 29px;
+  width: 1290px;
+}
+
+.frame-50 .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3.0px;
+  margin-top: 2px;
+  min-height: 29px;
+  width: 227px;
+}
+
+.frame-50 .overlap-group {
+  height: 20px;
+  position: relative;
+  width: 59px;
+}
+
+.frame-50 .t-shirts {
+  cursor: pointer;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 59px;
+}
+
+.frame-50 .line-8 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 18px;
+  width: 59px;
+}
+
+.frame-50 .navbar-link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  width: 78px;
+}
+
+.frame-50 .navbar-link-other {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 20px;
+  width: 52px;
+}
+
+.frame-50 .frame-51::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.frame-50 .frame-51 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  height: 442px;
+  margin-top: 19px;
+  overflow: hidden;
+  overflow-y: scroll;
+  width: 1229px;
+}
+
+.frame-50 .group-70 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  gap: 77px;
+  height: 855px;
+  margin-bottom: -413px;
+  min-width: 1229px;
+  padding: 14px 102px;
+}
+
+.frame-50 .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 822px;
+  width: 474px;
+}
+
+.frame-50 .rectangle-8 {
+  height: 405px;
+  width: 474px;
+}

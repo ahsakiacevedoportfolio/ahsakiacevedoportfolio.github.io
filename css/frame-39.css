@@ -1,0 +1,310 @@
+/* screen - frame-39 */
+
+.frame-39 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 631px;
+  min-width: 1425px;
+  padding: 0 279px;
+}
+
+#overlay-frame-39 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-39 .overlap-group1 {
+  height: 551px;
+  margin-top: 40px;
+  position: relative;
+  width: 755px;
+}
+
+.frame-39 .white-part-of-imac {
+  background: linear-gradient(180deg, rgb(252.88, 254.49, 255) 0%, rgb(255, 255, 255) 100%);
+  border-radius: 10px;
+  height: 551px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 742px;
+}
+
+.frame-39 .white-part-of-imac-1 {
+  background-color: var(--white);
+  border-radius: 0px 10px 0px 0px;
+  box-shadow: 0px 1px 5px #00000040;
+  height: 55px;
+  left: 112px;
+  width: 643px;
+}
+
+.frame-39 .white-part-of-imac-2 {
+  background-color: #d7e0ff;
+  border-radius: 10px 0px 0px 10px;
+  height: 551px;
+  left: 0;
+  width: 120px;
+}
+
+.frame-39 .other {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 326px;
+  width: 77px;
+}
+
+.frame-39 .home-aid-remedies {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 165px;
+  width: 95px;
+}
+
+.frame-39 .izzys {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 210px;
+  width: 91px;
+}
+
+.frame-39 .overlap-group {
+  border-radius: 8px;
+  height: 16px;
+  left: 17px;
+  position: absolute;
+  top: 12px;
+  width: 16px;
+}
+
+.frame-39 .ellipse-9 {
+  background-color: var(--red-orange);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.frame-39 .group-48 {
+  align-items: flex-end;
+  background-image: url(../img/line-5@2x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 8px;
+  left: 4px;
+  min-width: 8px;
+  padding: 0 0.0px;
+  top: 4px;
+}
+
+.frame-39 .line-6 {
+  height: 8px;
+  margin-bottom: -0.03px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.frame-39 .group-22 {
+  align-items: flex-start;
+  cursor: pointer;
+  height: 155px;
+  justify-content: center;
+  left: 190px;
+  min-width: 128px;
+  padding: 13.5px 0;
+  top: 62px;
+  transform: rotate(90deg);
+}
+
+.frame-39 .rectangle-36 {
+  height: 128px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 155px;
+}
+
+.frame-39 .logos-i-designed {
+  left: 366px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 136px;
+}
+
+.frame-39 .e-commerce {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+  width: 91px;
+}
+
+.frame-39 .saki-ace {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 113px;
+  width: 91px;
+}
+
+.frame-39 .name {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 139px;
+  width: 106px;
+}
+
+.frame-39 .name-1 {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 386px;
+  width: 91px;
+}
+
+.frame-39 .blogs {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 238px;
+  width: 77px;
+}
+
+.frame-39 .group-51 {
+  align-items: center;
+  cursor: pointer;
+  height: 155px;
+  justify-content: center;
+  left: 370px;
+  min-width: 128px;
+  top: 68px;
+  transform: rotate(90deg);
+}
+
+.frame-39 .rectangle-36-1 {
+  height: 128px;
+  transform: rotate(-90deg);
+  width: 155px;
+}
+
+.frame-39 .group-52 {
+  align-items: center;
+  cursor: pointer;
+  height: 155px;
+  justify-content: center;
+  left: 550px;
+  min-width: 128px;
+  top: 232px;
+  transform: rotate(90deg);
+}
+
+.frame-39 .group-53 {
+  align-items: center;
+  cursor: pointer;
+  height: 155px;
+  justify-content: center;
+  left: 550px;
+  min-width: 128px;
+  top: 68px;
+  transform: rotate(90deg);
+}
+
+.frame-39 .group-54 {
+  align-items: flex-start;
+  cursor: pointer;
+  height: 155px;
+  justify-content: center;
+  left: 190px;
+  min-width: 128px;
+  padding: 13.5px 0;
+  top: 232px;
+  transform: rotate(90deg);
+}
+
+.frame-39 .group-55 {
+  align-items: center;
+  cursor: pointer;
+  height: 155px;
+  justify-content: center;
+  left: 370px;
+  min-width: 128px;
+  top: 232px;
+  transform: rotate(90deg);
+}
+
+.frame-39 .group-56 {
+  align-items: flex-start;
+  cursor: pointer;
+  height: 155px;
+  justify-content: center;
+  left: 190px;
+  min-width: 128px;
+  padding: 13.5px 0;
+  top: 394px;
+  transform: rotate(90deg);
+}
+
+.frame-39 .group-57 {
+  align-items: center;
+  cursor: pointer;
+  height: 155px;
+  justify-content: center;
+  left: 370px;
+  min-width: 128px;
+  top: 394px;
+  transform: rotate(90deg);
+}
+
+.frame-39 .group-58 {
+  align-items: center;
+  cursor: pointer;
+  height: 177px;
+  justify-content: center;
+  left: 550px;
+  min-width: 150px;
+  top: 384px;
+  transform: rotate(90deg);
+}
+
+.frame-39 .rectangle-36-2 {
+  height: 150px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 177px;
+}
+
+.frame-39 .vibes-wellness {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 269px;
+  width: 91px;
+}
+
+.frame-39 .amere-soul {
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 355px;
+  width: 91px;
+}

@@ -1,0 +1,147 @@
+/* screen - frame-37 */
+
+.frame-37 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 827px;
+  min-width: 1679px;
+  padding: 137px 600px;
+}
+
+#overlay-frame-37 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-37 .overlap-group-container {
+  -webkit-backdrop-filter: blur(20px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(20px) brightness(100%);
+  background-color: #f3e9ee;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 19px;
+  min-height: 534px;
+  padding: 9px 10px;
+  width: 300px;
+}
+
+.frame-37 .overlap-group {
+  border-radius: 7px;
+  height: 14px;
+  position: relative;
+  width: 14px;
+}
+
+.frame-37 .ellipse-9 {
+  background-color: var(--red-orange);
+  border-radius: 7px;
+  cursor: pointer;
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.frame-37 .group-48 {
+  align-items: flex-end;
+  background-image: url(../img/line-5-4.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 7px;
+  left: 4px;
+  min-width: 7px;
+  position: absolute;
+  top: 3px;
+}
+
+.frame-37 .line-6 {
+  height: 7px;
+  margin-bottom: -0.02px;
+  object-fit: cover;
+  width: 7px;
+}
+
+.frame-37 .overlap-group2 {
+  align-self: flex-end;
+  height: 379px;
+  margin-right: 7px;
+  position: relative;
+  width: 263px;
+}
+
+.frame-37 .rectangle-75 {
+  background-color: #d8ffa7;
+  height: 25px;
+  left: 169px;
+  position: absolute;
+  top: 256px;
+  width: 82px;
+}
+
+.frame-37 .about-me-group {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  left: 0;
+  min-height: 379px;
+  position: absolute;
+  top: 0;
+  width: 263px;
+}
+
+.frame-37 .image-3 {
+  height: 209px;
+  margin-right: 3.0px;
+  width: 168px;
+}
+
+.frame-37 .hi-my-name-is-ahsak {
+  color: transparent;
+  font-family: var(--font-family-helvetica-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  min-height: 123px;
+  text-align: center;
+  width: 261px;
+}
+
+.frame-37 .span-2 {
+  color: #ad89f9;
+}
+
+.frame-37 .span-1 {
+  color: #ff7474;
+}
+
+.frame-37 .span-3 {
+  color: #63c5fc;
+}
+
+.frame-37 .about-ahsaki {
+  color: var(--black);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  left: 84px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 224px;
+  width: 93px;
+}
+
+.frame-37 .span {
+  font-family: var(--font-family-helvetica-bold);
+  font-weight: 700;
+}

@@ -1,0 +1,32 @@
+/* screen - frame-47 */
+
+.frame-47 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 551px;
+  min-width: 742px;
+  padding: 0 133.0px;
+}
+
+#overlay-frame-47 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-47 .group-57 {
+  align-items: center;
+  display: flex;
+  height: 658px;
+  justify-content: center;
+  margin-top: -53.0px;
+  min-width: 476px;
+  transform: rotate(90deg);
+}
+
+.frame-47 .rectangle-36 {
+  height: 476px;
+  transform: rotate(-90deg);
+  width: 658px;
+}

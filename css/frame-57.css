@@ -1,0 +1,562 @@
+/* screen - frame-57 */
+
+.frame-57 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 827px;
+  min-width: 1679px;
+  padding: 66px 194px;
+}
+
+#overlay-frame-57 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-57 .overlap-group4 {
+  height: 649px;
+  margin-left: 1px;
+  margin-top: 46px;
+  position: relative;
+  width: 1290px;
+}
+
+.frame-57 .white-part-of-imac {
+  background-color: var(--solitude);
+  height: 606px;
+  left: 0;
+  position: absolute;
+  top: 43px;
+  width: 1290px;
+}
+
+.frame-57 .rectangle-68 {
+  background-color: var(--carnation-pink);
+  border-radius: 10px 10px 0px 0px;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1290px;
+}
+
+.frame-57 .rectangle-76 {
+  background-color: var(--shampoo);
+  border-radius: 5px;
+  height: 31px;
+  left: 90px;
+  position: absolute;
+  top: 19px;
+  width: 69px;
+}
+
+.frame-57 .overlap-group {
+  border-radius: 8px;
+  height: 16px;
+  left: 22px;
+  position: absolute;
+  top: 14px;
+  width: 16px;
+}
+
+.frame-57 .ellipse-9 {
+  background-color: var(--red-orange);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.frame-57 .group-48 {
+  align-items: flex-end;
+  background-image: url(../img/line-5@2x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 8px;
+  left: 4px;
+  min-width: 8px;
+  top: 4px;
+}
+
+.frame-57 .line-6 {
+  height: 8px;
+  margin-bottom: -0.03px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.frame-57 .arte-app {
+  left: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  width: 59px;
+}
+
+.frame-57 .frame-55 {
+  align-items: flex-end;
+  display: flex;
+  height: 606px;
+  left: 0;
+  overflow: hidden;
+  overflow-y: scroll;
+  position: absolute;
+  top: 43px;
+  width: 1290px;
+}
+
+.frame-57 .overlap-group2 {
+  height: 5347px;
+  margin-bottom: -4741px;
+  margin-left: -112px;
+  position: relative;
+  width: 1404px;
+}
+
+.frame-57 .rectangle-78 {
+  background-color: var(--white);
+  height: 5347px;
+  left: 112px;
+  position: absolute;
+  top: 0;
+  width: 1290px;
+}
+
+.frame-57 .overlap-group-1 {
+  height: 636px;
+  left: 112px;
+  position: absolute;
+  top: 45px;
+  width: 1290px;
+}
+
+.frame-57 .rectangle-144 {
+  background: linear-gradient(180deg, rgb(95.24, 131.94, 226.31) 0%, rgba(162.56, 177.35, 255, 0.47) 60.42%, rgb(208.25, 218.53, 255) 90.1%);
+  height: 609px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1290px;
+}
+
+.frame-57 .image-9 {
+  height: 504px;
+  left: 499px;
+  position: absolute;
+  top: 132px;
+  width: 335px;
+}
+
+.frame-57 .image-10 {
+  height: 489px;
+  left: 806px;
+  object-fit: cover;
+  position: absolute;
+  top: 132px;
+  width: 277px;
+}
+
+.frame-57 .title {
+  color: var(--white);
+  font-family: var(--font-family-kenia);
+  font-size: 64px;
+  font-weight: 400;
+  left: 587px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 31px;
+  width: 116px;
+}
+
+.frame-57 .image-14 {
+  height: 719px;
+  left: 0;
+  position: absolute;
+  top: 3625px;
+  width: 854px;
+}
+
+.frame-57 .image-8 {
+  height: 506px;
+  left: 319px;
+  position: absolute;
+  top: 175px;
+  width: 335px;
+}
+
+.frame-57 .rectangle-145 {
+  background-color: var(--white);
+  height: 100px;
+  left: 112px;
+  position: absolute;
+  top: 583px;
+  width: 1290px;
+}
+
+.frame-57 .goal {
+  left: 1057px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 653px;
+  width: 84px;
+}
+
+.frame-57 .to-have-a-space-spec {
+  left: 873px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 740px;
+  width: 467px;
+}
+
+.frame-57 .rectangle-146 {
+  background-color: #e9f2fb;
+  height: 192px;
+  left: 112px;
+  position: absolute;
+  top: 1179px;
+  width: 1290px;
+}
+
+.frame-57 .rectangle-147 {
+  background-color: #95b7eb;
+  height: 192px;
+  left: 112px;
+  position: absolute;
+  top: 1940px;
+  width: 1290px;
+}
+
+.frame-57 .rectangle-148 {
+  border: 3px solid;
+  border-color: #4f80df;
+  border-radius: 20px;
+  height: 200px;
+  left: 219px;
+  position: absolute;
+  top: 2386px;
+  width: 200px;
+}
+
+.frame-57 .rectangle-149 {
+  border: 3px solid;
+  border-color: var(--tropical-blue);
+  border-radius: 20px;
+  height: 200px;
+  left: 511px;
+  position: absolute;
+  top: 2386px;
+  width: 200px;
+}
+
+.frame-57 .rectangle-150 {
+  border: 3px solid;
+  border-color: #5081df;
+  border-radius: 20px;
+  height: 200px;
+  left: 803px;
+  position: absolute;
+  top: 2386px;
+  width: 200px;
+}
+
+.frame-57 .rectangle-151 {
+  border: 3px solid;
+  border-color: var(--tropical-blue);
+  border-radius: 20px;
+  height: 200px;
+  left: 1095px;
+  position: absolute;
+  top: 2386px;
+  width: 200px;
+}
+
+.frame-57 .users-want-an-app-th {
+  left: 625px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 1249px;
+  width: 642px;
+}
+
+.frame-57 .arte-is-an-app-where {
+  color: var(--white);
+  font-family: var(--font-family-avenir_next-medium);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 625px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 2003px;
+  width: 642px;
+}
+
+.frame-57 .overview {
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 653px;
+  width: 161px;
+}
+
+.frame-57 .problem {
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1241px;
+  width: 161px;
+}
+
+.frame-57 .solution {
+  color: var(--white);
+  font-family: var(--font-family-avenir_next-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2011px;
+  width: 138px;
+}
+
+.frame-57 .interviews {
+  color: #787878;
+  font-family: var(--font-family-avenir_next-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 669px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2173px;
+  width: 176px;
+}
+
+.frame-57 .persona {
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2748px;
+  width: 176px;
+}
+
+.frame-57 .competitors {
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3418px;
+  width: 212px;
+}
+
+.frame-57 .sketches {
+  left: 976px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3624px;
+  width: 147px;
+}
+
+.frame-57 .having-so-many-apps {
+  left: 241px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2417px;
+  width: 156px;
+}
+
+.frame-57 .having-so-many-apps-1 {
+  left: 533px;
+  top: 2420px;
+}
+
+.frame-57 .having-so-many-apps-2 {
+  left: 825px;
+  top: 2420px;
+}
+
+.frame-57 .having-so-many-apps-3 {
+  left: 1117px;
+  top: 2424px;
+}
+
+.frame-57 .arte-is-a-mobile-app {
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 744px;
+  width: 467px;
+}
+
+.frame-57 .user-research {
+  color: var(--cerulean-frost);
+  font-family: var(--font-family-avenir_next-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  left: 1028px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1455px;
+  width: 240px;
+}
+
+.frame-57 .i-did-research-on-a {
+  left: 927px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1531px;
+  width: 441px;
+}
+
+.frame-57 .what-users-want-is-t {
+  color: var(--black);
+  font-family: var(--font-family-avenir_next-demibold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 279px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2266px;
+  width: 951px;
+}
+
+.frame-57 .roxy-is-a-social-med {
+  color: var(--black);
+  font-family: var(--font-family-avenir_next-demibold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 622px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2740px;
+  width: 642px;
+}
+
+.frame-57 .one-of-the-biggest-c {
+  left: 704px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 3410px;
+  width: 642px;
+}
+
+.frame-57 .image-11 {
+  height: 338px;
+  left: 527px;
+  position: absolute;
+  top: 1544px;
+  width: 301px;
+}
+
+.frame-57 .image-12 {
+  height: 360px;
+  left: 150px;
+  position: absolute;
+  top: 1424px;
+  width: 314px;
+}
+
+.frame-57 .image-13 {
+  height: 430px;
+  left: 114px;
+  position: absolute;
+  top: 2856px;
+  width: 1290px;
+}
+
+.frame-57 .group-110 {
+  align-items: flex-start;
+  cursor: pointer;
+  height: 33px;
+  left: 285px;
+  min-width: 147px;
+  top: 999px;
+}
+
+.frame-57 .overlap-group1 {
+  align-items: flex-end;
+  background-color: #495aef;
+  border-radius: 30px;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  min-width: 145px;
+  padding: 0 26px;
+}
+
+.frame-57 .prototype {
+  color: var(--white);
+  font-family: var(--font-family-avenir_next-medium);
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 31px;
+  width: 92px;
+}
+
+.frame-57 .overlap-group3 {
+  background-color: var(--shampoo);
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 43px;
+  width: 1290px;
+}
+
+.frame-57 .rectangle-69 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--cerise);
+  border-radius: 15px;
+  height: 25px;
+  left: 90px;
+  position: absolute;
+  top: 10px;
+  width: 951px;
+}
+
+.frame-57 .ahsakis-portfoliocomappdesignarte {
+  left: 130px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+  width: 235px;
+}
+
+.frame-57 .having-so-many-apps-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  width: 156px;
+}

@@ -1,0 +1,184 @@
+/* screen - frame-21 */
+
+.frame-21 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 456px;
+  min-width: 1314px;
+  padding: 42px 307px;
+}
+
+#overlay-frame-21 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-21 .group-container {
+  background: linear-gradient(180deg, rgb(252.88, 254.49, 255) 0%, rgb(255, 255, 255) 100%);
+  border-radius: 10px;
+  height: 371px;
+  position: relative;
+  width: 699px;
+}
+
+.frame-21 .group-57 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 155px;
+  justify-content: center;
+  left: 332px;
+  min-width: 128px;
+  position: absolute;
+  top: 44px;
+  transform: rotate(90deg);
+}
+
+.frame-21 .rectangle-36 {
+  height: 128px;
+  transform: rotate(-90deg);
+  width: 155px;
+}
+
+.frame-21 .overlap-group2 {
+  height: 371px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 699px;
+}
+
+.frame-21 .white-part-of-imac {
+  background-color: var(--white);
+  border-radius: 0px 10px 0px 0px;
+  box-shadow: 0px 1px 5px #00000040;
+  height: 37px;
+  left: 93px;
+  position: absolute;
+  top: 0;
+  width: 606px;
+}
+
+.frame-21 .white-part-of-imac-1 {
+  background-color: #ffbeec;
+  border-radius: 10px 0px 0px 10px;
+  height: 371px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 101px;
+}
+
+.frame-21 .home-aid-remedies {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 153px;
+  width: 95px;
+}
+
+.frame-21 .overlap-group {
+  border-radius: 8px;
+  height: 16px;
+  left: 21px;
+  position: absolute;
+  top: 11px;
+  width: 16px;
+}
+
+.frame-21 .ellipse-9 {
+  background-color: var(--red-orange);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 16px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.frame-21 .group-48 {
+  align-items: flex-end;
+  background-image: url(../img/line-5@2x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 8px;
+  left: 4px;
+  min-width: 8px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 4px;
+}
+
+.frame-21 .line-6 {
+  height: 8px;
+  margin-bottom: -0.03px;
+  object-fit: cover;
+  width: 8px;
+}
+
+.frame-21 .e-commerce {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 85px;
+  width: 91px;
+}
+
+.frame-21 .blogs {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 241px;
+  width: 77px;
+}
+
+.frame-21 .saki-ace {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 122px;
+  width: 91px;
+}
+
+.frame-21 .vibes-wellness {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 277px;
+  width: 91px;
+}
+
+.frame-21 .group-56 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 155px;
+  justify-content: center;
+  left: 154px;
+  min-width: 128px;
+  position: absolute;
+  top: 44px;
+  transform: rotate(90deg);
+}
+
+.frame-21 .group-53 {
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  height: 155px;
+  justify-content: center;
+  left: 508px;
+  min-width: 128px;
+  position: absolute;
+  top: 44px;
+  transform: rotate(90deg);
+}

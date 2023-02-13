@@ -1,0 +1,43 @@
+/* screen - frame-58 */
+
+.frame-58 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 203px;
+  min-width: 239px;
+  padding: 2px 15px;
+}
+
+#overlay-frame-58 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-58 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  min-height: 100px;
+  padding: 17px 20px;
+  width: 158px;
+}
+
+.frame-58 .samples {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 19px;
+  width: 117px;
+}
+
+.frame-58 .all-soap-bars {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 22px;
+  width: 117px;
+}

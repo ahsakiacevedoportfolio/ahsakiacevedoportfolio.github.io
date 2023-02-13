@@ -1,0 +1,55 @@
+/* screen - frame-35 */
+
+.frame-35 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 350px;
+  min-width: 251px;
+  padding: 16px 32px;
+}
+
+#overlay-frame-35 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-35 .overlap-group {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(10px) brightness(100%);
+  background-color: #d0cfdbf5;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  min-height: 227px;
+  padding: 13px 0;
+  width: 148px;
+}
+
+.frame-35 .about-ahsaki {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 20px;
+  min-height: 11px;
+  width: 65px;
+}
+
+.frame-35 .line {
+  align-self: center;
+  height: 1px;
+  margin-top: 3px;
+  width: 122px;
+}
+
+.frame-35 .link {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 20px;
+  margin-top: 7px;
+  min-height: 11px;
+  width: 65px;
+}

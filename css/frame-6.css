@@ -1,0 +1,838 @@
+/* screen - frame-30 */
+
+.frame-30 {
+  background-color: transparent;
+  border: 1px none;
+  height: 65px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow-x: hidden;
+  position: relative;
+  width: 170px;
+}
+
+#overlay-frame-30 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+}
+
+.frame-30 .frame-30-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 65px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 170px;
+}
+
+.frame-30 .group-44-gI0eAK {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/group-44@2x.png);
+  background-size: 100% 100%;
+  height: 26px;
+  left: -18px;
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  width: 214px;
+}
+
+.frame-30 .group-38-gI0eAK {
+  --z-index: 1;
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 46px;
+  width: 156px;
+}
+
+.frame-30 .text-1-l3Rabu {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Lato', Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 154px;
+}
+
+.frame-30 .group-47-gI0eAK {
+  --z-index: 2;
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  left: 170px;
+  opacity: 1;
+  position: absolute;
+  top: 43px;
+  width: 18px;
+}
+
+.frame-30 .ellipse-17-lJkfFi {
+  --z-index: 0;
+  background-color: transparent;
+  border: 1.7000000476837158px solid;
+  border-color: #fcfcfcba;
+  border-radius: 9px/9.5px;
+  height: 19px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.frame-30 .arrow-1-lJkfFi {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/arrow-1@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 4px;
+  width: 11px;
+}
+/* screen - frame-6 */
+
+.frame-6 {
+  background-color: #ffd6ec;
+  border: 1px none;
+  height: 1168px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 2000px;
+}
+
+.frame-6 .rectangle-84-ojBfAf {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-84-2@2x.png);
+  background-size: 100% 100%;
+  height: 355px;
+  left: 1884px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 256px;
+}
+
+.frame-6 .rectangle-86-xQEjKT {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-86-3.svg);
+  background-size: 100% 100%;
+  height: 92px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 1002px;
+}
+
+.frame-6 .rectangle-87-xQEjKT {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 83px;
+  left: 151px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1369px;
+  width: 197px;
+}
+
+.frame-6 .line-9-xQEjKT {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/line-9-3.svg);
+  background-size: 100% 100%;
+  height: 92px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.frame-6 .line-10-xQEjKT {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/line-10-2.svg);
+  background-size: 100% 100%;
+  height: 92px;
+  left: 1018px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 16px;
+}
+
+.frame-6 .rectangle-94-xQEjKT {
+  --z-index: 7;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 93px;
+  left: -249px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1378px;
+  width: 239px;
+}
+
+.frame-6 .rectangle-95-xQEjKT {
+  --z-index: 8;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 93px;
+  left: 514px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1378px;
+  width: 239px;
+}
+
+.frame-6 .rectangle-115-ojBfAf {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/rectangle-115-2@2x.png);
+  background-size: 100% 100%;
+  height: 127px;
+  left: -239px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -823px;
+  width: 55px;
+}
+
+.frame-6 .rectangle-116-ojBfAf {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-116-3.svg);
+  background-size: 100% 100%;
+  height: 135px;
+  left: 317px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 672px;
+  width: 63px;
+}
+
+.frame-6 .rectangle-96-ojBfAf {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/rectangle-96-3@2x.png);
+  background-size: 100% 100%;
+  height: 127px;
+  left: 140px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 702px;
+  width: 185px;
+}
+
+.frame-6 .rectangle-105-ojBfAf {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/rectangle-105-3.svg);
+  background-size: 100% 100%;
+  height: 278px;
+  left: 140px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 829px;
+  width: 56px;
+}
+
+.frame-6 .line-11-ojBfAf {
+  --z-index: 22;
+  background-color: transparent;
+  background-image: url(../img/line-11-3.svg);
+  background-size: 100% 100%;
+  height: 573px;
+  left: 2018px;
+  opacity: 1;
+  position: absolute;
+  top: 534px;
+  width: 30px;
+}
+
+.frame-6 .headset-svgrepo-com-1-ojBfAf {
+  --z-index: 23;
+  background-color: transparent;
+  background-image: url(../img/headset-svgrepo-com-1-2.svg);
+  background-size: 100% 100%;
+  height: 333px;
+  left: 1891px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 531px;
+  width: 249px;
+}
+
+.frame-6 .group-78-ojBfAf {
+  --z-index: 29;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 26px;
+  left: -221px;
+  opacity: 1;
+  position: absolute;
+  top: -770px;
+  width: 24px;
+}
+
+.frame-6 .star-1-ojBfAf {
+  --z-index: 31;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 13px;
+  left: -214px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -798px;
+  width: 13px;
+}
+
+.frame-6 .star-3-ojBfAf {
+  --z-index: 32;
+  background-color: transparent;
+  background-image: url(../img/star-3-2.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 336px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 727px;
+  width: 15px;
+}
+
+.frame-6 .star-2-ojBfAf {
+  --z-index: 36;
+  background-color: transparent;
+  background-image: url(../img/star-2-2.svg);
+  background-size: 100% 100%;
+  height: 6px;
+  left: 334px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 759px;
+  width: 6px;
+}
+
+.frame-6 .vector-HsqYTl {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 51px;
+  left: -146px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2302px;
+  width: 54px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-1-HsqYTl {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 8px;
+  left: -103px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2293px;
+  width: 8px;
+}
+
+.frame-6 .star-5-HsqYTl {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 9px;
+  left: -139px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -2294px;
+  width: 9px;
+}
+
+.frame-6 .group-80-ojBfAf {
+  --z-index: 43;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 7px;
+  left: -222px;
+  opacity: 1;
+  position: absolute;
+  top: -799px;
+  width: 29px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-2-ojBfAf {
+  --z-index: 44;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 5px;
+  left: -224px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -792px;
+  width: 4px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-9-ojBfAf {
+  --z-index: 45;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 4px;
+  left: -223px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -787px;
+  width: 3px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-12-ojBfAf {
+  --z-index: 46;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 3px;
+  left: -222px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -783px;
+  width: 3px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-10-ojBfAf {
+  --z-index: 47;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 2px;
+  left: -220px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -779px;
+  width: 2px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-11-ojBfAf {
+  --z-index: 48;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 1px;
+  left: -216px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -777px;
+  width: 1px;
+}
+
+.frame-6 .vector-qzONxY {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/vector-16.svg);
+  background-size: 100% 100%;
+  height: 7px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 7px;
+}
+
+.frame-6 .vector-VVQJ86 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/vector-12.svg);
+  background-size: 100% 100%;
+  height: 8px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  transform: rotate(-90deg);
+  width: 7px;
+}
+
+.frame-6 .vector-Jj3sqd {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/vector-13.svg);
+  background-size: 100% 100%;
+  height: 7px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 7px;
+}
+
+.frame-6 .vector-fH92Do {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/vector-14.svg);
+  background-size: 100% 100%;
+  height: 8px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  transform: rotate(90deg);
+  width: 7px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-2-00Gq4V {
+  --z-index: 53;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 7px;
+  left: -212px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -751px;
+  width: 7px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-5-ojBfAf {
+  --z-index: 54;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 7px;
+  left: -212px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -760px;
+  width: 7px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-3-ojBfAf {
+  --z-index: 55;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 7px;
+  left: -204px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -753px;
+  width: 7px;
+}
+
+.frame-6 .heart-fill-svgrepo-com-4-ojBfAf {
+  --z-index: 56;
+  background-color: transparent;
+  background-image: url(../img/group-78-2@2x.png);
+  background-size: 100% 100%;
+  height: 7px;
+  left: -214px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -760px;
+  width: 7px;
+}
+
+.frame-6 .fluffy-wing-svgrepo-com-2-ojBfAf {
+  --z-index: 57;
+  background-color: transparent;
+  background-image: url(../img/fluffy-wing-svgrepo-com-2-2.svg);
+  background-size: 100% 100%;
+  height: 57px;
+  left: 325px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 752px;
+  width: 56px;
+}
+
+.frame-6 .star-4-ojBfAf {
+  --z-index: 58;
+  background-color: transparent;
+  background-image: url(../img/star-4-2.svg);
+  background-size: 100% 100%;
+  height: 7px;
+  left: 365px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 763px;
+  width: 7px;
+}
+
+.frame-6 .star-5-ojBfAf {
+  --z-index: 59;
+  background-color: transparent;
+  background-image: url(../img/star-5-6.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 355px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 733px;
+  width: 4px;
+}
+
+.frame-6 .star-6-ojBfAf {
+  --z-index: 60;
+  background-color: transparent;
+  background-image: url(../img/star-6-3.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 354px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 729px;
+  width: 3px;
+}
+
+.frame-6 .star-7-ojBfAf {
+  --z-index: 61;
+  background-color: transparent;
+  background-image: url(../img/star-7-3.svg);
+  background-size: 100% 100%;
+  height: 3px;
+  left: 353px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 727px;
+  width: 3px;
+}
+
+.frame-6 .star-8-ojBfAf {
+  --z-index: 62;
+  background-color: transparent;
+  background-image: url(../img/star-8-3.svg);
+  background-size: 100% 100%;
+  height: 3px;
+  left: 350px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 724px;
+  width: 2px;
+}
+
+.frame-6 .star-9-ojBfAf {
+  --z-index: 63;
+  background-color: transparent;
+  background-image: url(../img/star-9-3.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 348px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 723px;
+  width: 2px;
+}
+
+.frame-6 .rectangle-121-b4lbPV {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-121-2.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 99px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 185px;
+  width: 83px;
+}
+
+.frame-6 .polygon-4-b4lbPV {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/polygon-4-2.svg);
+  background-size: 100% 100%;
+  height: 54px;
+  left: 32px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 46px;
+  width: 67px;
+}
+
+.frame-6 .polygon-5-b4lbPV {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/polygon-5-2.svg);
+  background-size: 100% 100%;
+  height: 55px;
+  left: 184px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 47px;
+  width: 65px;
+}
+
+.frame-6 .group-81-b4lbPV {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/group-81-4@2x.png);
+  background-size: 100% 100%;
+  height: 169px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 56px;
+  width: 249px;
+}
+
+.frame-6 .rectangle-123-b4lbPV {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-123-2.svg);
+  background-size: 100% 100%;
+  height: 80px;
+  left: 49px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 63px;
+  width: 157px;
+}
+
+.frame-6 .icon-plus-b4lbPV {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/group-81-5@2x.png);
+  background-size: 100% 100%;
+  height: 36px;
+  left: 81px;
+  opacity: 1;
+  position: absolute;
+  top: 100px;
+  width: 37px;
+}
+
+.frame-6 .polygon-6-ojBfAf {
+  --z-index: 65;
+  background-color: transparent;
+  background-image: url(../img/polygon-6-2.svg);
+  background-size: 100% 100%;
+  height: 80px;
+  left: 1930px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 515px;
+  width: 69px;
+}
+
+.frame-6 .polygon-7-ojBfAf {
+  --z-index: 66;
+  background-color: transparent;
+  background-image: url(../img/polygon-7-2.svg);
+  background-size: 100% 100%;
+  height: 80px;
+  left: 2075px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 517px;
+  width: 65px;
+}
+
+.frame-6 .white-part-of-imac-nCKxDd {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/white-part-of-imac-2.svg);
+  background-size: 100% 100%;
+  height: 689px;
+  left: 30px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 32px;
+  width: 1565px;
+}
+
+.frame-6 .apple_logo_white-1-L0cjLb {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/apple-logo-white-1@2x.svg);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 19px;
+  left: 46px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 36px;
+  width: 15px;
+}
