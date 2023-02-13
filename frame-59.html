@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1679, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/frame-58.css" />
+    <link rel="stylesheet" type="text/css" href="css/frame-59.css" />
+    <link rel="stylesheet" type="text/css" href="css/frame-56.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0">
+    <input type="hidden" id="anPageName" name="page" value="frame-59" />
+    <div class="frame-59 screen">
+      <div class="overlap-group4">
+        <div class="rectangle-68"></div>
+        <div class="rectangle-76"></div>
+        <div class="rectangle-70"></div>
+        <div class="rectangle-69"></div>
+        <a href="frame-7.html#frame-7" data-turbolinks="false">
+          <div class="group-49">
+            <div class="group-48"><img class="line-6" src="img/line-6@2x.svg" alt="Line 6" /></div></div
+        ></a>
+        <div class="httpswwwhome-aidremediescomsample helvetica-regular-normal-black-12px">
+          https://www.home-aidremedies.com/sample
+        </div>
+        <img class="ellipse-45" src="img/ellipse-45@2x.png" alt="Ellipse 45" />
+        <div class="home-aid-remedies">HOME-AIDRemedies</div>
+      </div>
+      <div class="overlap-group3">
+        <div class="frame-58">
+          <div class="overlap-group2">
+            <div class="rectangle-78"></div>
+            <div class="rectangle-83"></div>
+            <a onclick="ShowOverlay('frame-56', 'animate-appear');"
+              ><div class="home-aid-remedies-1">HOME-AID REMEDIES</div> </a
+            ><a onclick="ShowOverlay('frame-58', 'animate-appear');">
+              <div class="group-92">
+                <div class="overlap-group">
+                  <div class="shop helvetica-bold-black-15px">Shop</div>
+                  <div class="group-91">
+                    <img class="line-12" src="img/line-12.svg" alt="Line 12" />
+                    <img class="line-13" src="img/line-13-4.svg" alt="Line 13" />
+                  </div>
+                </div></div></a
+            ><img class="icon-cart" src="img/image-5@2x.png" alt="icon-cart" />
+            <div class="frame-59-1">
+              <div class="sample">SAMPLE</div>
+              <img class="rectangle-135" src="img/rectangle-135-4@2x.png" alt="Rectangle 135" />
+              <div class="group-97 helvetica-bold-black-16px">
+                <div class="sample-bar-pack">Sample Bar Pack</div>
+                <div class="x1000-usd">$10.00 USD</div>
+              </div>
+              <div class="overlap-group-1"><div class="add-to-cart helvetica-bold-white-16px">ADD TO CART</div></div>
+            </div>
+            <div class="overlap-group1">
+              <div class="flex-col">
+                <h1 class="title helvetica-bold-black-40px">ABOUT</h1>
+                <div class="our-story helvetica-regular-normal-black-24px">Our Story</div>
+                <div class="gift-card helvetica-regular-normal-black-24px">Gift Card</div>
+              </div>
+              <div class="flex-col-1">
+                <div class="help helvetica-bold-black-40px">HELP</div>
+                <div class="contact-us helvetica-regular-normal-black-24px">Contact Us</div>
+                <div class="returns helvetica-regular-normal-black-24px">Returns</div>
+                <div class="shipping helvetica-regular-normal-black-24px">Shipping</div>
+                <div class="faq helvetica-regular-normal-black-24px">FAQ</div>
+              </div>
+              <div class="group-105">
+                <div class="ellipse-46"></div>
+                <div class="ellipse-47"></div>
+              </div>
+              <div class="homeaidremedies">@homeaidremedies</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="overlay-frame-58" class="overlay-base">
+      <div class="frame-58 screen">
+        <div class="overlap-group">
+          <a onclick="ShowOverlay('frame-59', 'animate-appear');"
+            ><div class="samples helvetica-bold-black-15px">Samples</div> </a
+          ><a onclick="ShowOverlay('frame-61', 'animate-appear');"
+            ><div class="all-soap-bars helvetica-bold-black-15px">All Soap bars</div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <script>
+      ShowOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") == -1) {
+          document.getElementById(overlayName).className =
+            document.getElementById(overlayName).className + " " + animationName;
+        }
+        if (window.loadAsyncSrc != undefined) {
+          loadAsyncSrc();
+        }
+      };
+
+      HideOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") != -1) {
+          cssClasses.splice(-1);
+          cssClasses.push(animationName);
+          document.getElementById(overlayName).className = cssClasses.join(" ");
+
+          cssClasses.splice(-1);
+          setTimeout(function () {
+            document.getElementById(overlayName).className = cssClasses.join(" ");
+          }, 1100);
+        }
+        var vids = document.getElementsByTagName("video");
+        if (vids) {
+          for (var i = 0; i < vids.length; i++) {
+            var video = vids.item(i);
+            video.pause();
+          }
+        }
+      };
+
+      closeOutsideOverlay = function (overlay_slug) {
+        var overlay_id = `overlay-${overlay_slug}`;
+        const overlayElement = document.getElementById(overlay_id);
+        overlayElement.addEventListener(
+          `click`,
+          function (event) {
+            var overlay_id = `overlay-${overlay_slug}`;
+            var e = event || window.event;
+            var overlayContainer = overlayElement.getElementsByClassName(`${overlay_slug}`);
+            if (e.target === overlayElement) {
+              HideOverlay(`${overlay_slug}`, "animate-disappear");
+            }
+          },
+          false
+        );
+      };
+
+      CloseOnOverlayClick = function (overlay_slug) {
+        var overlay_id = `overlay-${overlay_slug}`;
+        document.getElementById(overlay_id).addEventListener(
+          `click`,
+          function (event) {
+            {
+              var overlay_id = `overlay-${overlay_slug}`;
+              var e = event || window.event;
+              var overlayElement = document.getElementById(overlay_id);
+              var overlayContainer = overlayElement.getElementsByClassName(`${overlay_slug}`);
+              var clickedDiv = e.toElement || e.target;
+              var dismissButton = clickedDiv.parentElement.id == overlay_id;
+              var clickOutsideOverlay = false;
+              if (overlayContainer.length > 0) {
+                {
+                  clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+                }
+              }
+              if (dismissButton || clickOutsideOverlay) {
+                {
+                  HideOverlay(`${overlay_slug}`, "animate-disappear");
+                }
+              }
+            }
+          },
+          false
+        );
+      };
+    </script>
+  </body>
+</html>

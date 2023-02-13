@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1314, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/frame-56.css" />
+    <link rel="stylesheet" type="text/css" href="css/frame-21.css" />
+    <link rel="stylesheet" type="text/css" href="css/frame-41.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0">
+    <input type="hidden" id="anPageName" name="page" value="frame-21" />
+    <div class="frame-21 screen">
+      <div class="group-container">
+        <a href="https://sakiace.com" target="_blank">
+          <div class="group-57"><img class="rectangle-36" src="img/rectangle-36-12@2x.png" alt="Rectangle 36" /></div
+        ></a>
+        <div class="overlap-group2">
+          <div class="white-part-of-imac"></div>
+          <div class="white-part-of-imac-1"></div>
+          <div class="home-aid-remedies outfit-light-fuscous-gray-15px">Home-Aid Remedies</div>
+          <div class="overlap-group">
+            <a href="frame-6.html#frame-6" data-turbolinks="false"> <div class="ellipse-9"></div></a>
+            <div class="group-48"><img class="line-6" src="img/line-6@2x.svg" alt="Line 6" /></div>
+          </div>
+          <div class="websites-i-have-designed outfit-bold-black-16px">Website’s I Have Designed</div>
+          <div class="e-commerce outfit-bold-vin-rouge-14px">E-commerce</div>
+          <div class="blogs outfit-bold-vin-rouge-14px">Blogs</div>
+          <div class="saki-ace outfit-light-fuscous-gray-15px">SakiAce</div>
+          <div class="vibes-wellness outfit-light-fuscous-gray-15px">Vibes Wellness</div>
+        </div>
+        <a onclick="ShowOverlay('frame-56', 'animate-appear');">
+          <div class="group-56"><img class="rectangle-36" src="img/rectangle-36-6@2x.png" alt="Rectangle 36" /></div></a
+        ><a onclick="ShowOverlay('frame-41', 'animate-appear');">
+          <div class="group-53"><img class="rectangle-36" src="img/rectangle-36-8@2x.png" alt="Rectangle 36" /></div
+        ></a>
+      </div>
+    </div>
+    <div id="overlay-frame-41" class="overlay-base">
+      <div class="frame-41 screen">
+        <div class="group-22"><img class="rectangle-36" src="img/rectangle-36-1@1x.png" alt="Rectangle 36" /></div>
+      </div>
+    </div>
+    <script>
+      ShowOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") == -1) {
+          document.getElementById(overlayName).className =
+            document.getElementById(overlayName).className + " " + animationName;
+        }
+        if (window.loadAsyncSrc != undefined) {
+          loadAsyncSrc();
+        }
+      };
+
+      HideOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") != -1) {
+          cssClasses.splice(-1);
+          cssClasses.push(animationName);
+          document.getElementById(overlayName).className = cssClasses.join(" ");
+
+          cssClasses.splice(-1);
+          setTimeout(function () {
+            document.getElementById(overlayName).className = cssClasses.join(" ");
+          }, 1100);
+        }
+        var vids = document.getElementsByTagName("video");
+        if (vids) {
+          for (var i = 0; i < vids.length; i++) {
+            var video = vids.item(i);
+            video.pause();
+          }
+        }
+      };
+
+      closeOutsideOverlay = function (overlay_slug) {
+        var overlay_id = `overlay-${overlay_slug}`;
+        const overlayElement = document.getElementById(overlay_id);
+        overlayElement.addEventListener(
+          `click`,
+          function (event) {
+            var overlay_id = `overlay-${overlay_slug}`;
+            var e = event || window.event;
+            var overlayContainer = overlayElement.getElementsByClassName(`${overlay_slug}`);
+            if (e.target === overlayElement) {
+              HideOverlay(`${overlay_slug}`, "animate-disappear");
+            }
+          },
+          false
+        );
+      };
+
+      CloseOnOverlayClick = function (overlay_slug) {
+        var overlay_id = `overlay-${overlay_slug}`;
+        document.getElementById(overlay_id).addEventListener(
+          `click`,
+          function (event) {
+            {
+              var overlay_id = `overlay-${overlay_slug}`;
+              var e = event || window.event;
+              var overlayElement = document.getElementById(overlay_id);
+              var overlayContainer = overlayElement.getElementsByClassName(`${overlay_slug}`);
+              var clickedDiv = e.toElement || e.target;
+              var dismissButton = clickedDiv.parentElement.id == overlay_id;
+              var clickOutsideOverlay = false;
+              if (overlayContainer.length > 0) {
+                {
+                  clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+                }
+              }
+              if (dismissButton || clickOutsideOverlay) {
+                {
+                  HideOverlay(`${overlay_slug}`, "animate-disappear");
+                }
+              }
+            }
+          },
+          false
+        );
+      };
+    </script>
+  </body>
+</html>
